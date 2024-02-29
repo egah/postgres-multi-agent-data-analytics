@@ -14,6 +14,8 @@ openai = "^0.28"
 argparse = "^1.4.0"
 python-dotenv = "^1.0.1"
 psycopg2-binary = "^2.9.9"
+pyautogen = "^0.1.7"
+
 
 
 [build-system]
